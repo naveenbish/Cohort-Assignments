@@ -5,19 +5,24 @@
  */
 
 function wait1(t) {
+  return new Promise(function(resolve) {
 
+  })
 }
 
 function wait2(t) {
+  return new Promise(function(resolve) {
 
+  })
 }
 
 function wait3(t) {
+  return new Promise(function(resolve) {
 
+  })
 }
 
 function calculateTime(t1, t2, t3) {
-
 }
 
 module.exports = calculateTime;
