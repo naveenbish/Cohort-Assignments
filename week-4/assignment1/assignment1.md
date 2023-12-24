@@ -16,7 +16,8 @@ This simple web app allows users to input two numbers, add them, and view the re
 
 ## Preview
 
-Include a screenshot or gif of your web app in action here.
+![image](https://github.com/naveenbish/Cohort-Assignments/assets/67149946/83205c1e-67a7-4af3-ab6e-b590cc982077)
+
 
 ## Getting Started
 
