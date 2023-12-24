@@ -22,5 +22,3 @@ Make sure your backend server is running at http://127.0.0.1:3000. If it's runni
 ## Preview
 
 ![image](https://github.com/naveenbish/Cohort-Assignments/assets/67149946/83205c1e-67a7-4af3-ab6e-b590cc982077)
-
-```bash
